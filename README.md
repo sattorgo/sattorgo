@@ -1,6 +1,6 @@
 Hey! I'm @sattorgo 👋
 
-I'm a backend developer from Uzbekistan 🇺🇿
+I'm a backend developer from **Uzbekistan** 🇺🇿
 
 I work with APIs, databases, and scalable backend systems ⚙️
 
