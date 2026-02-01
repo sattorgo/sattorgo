@@ -1,4 +1,4 @@
-Hey! I'm @sattorgo 👋
+Hey! I'm **Sattorbek** 👋
 
 I'm a backend developer from **Uzbekistan** 🇺🇿
 
